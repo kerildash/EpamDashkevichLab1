@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WpfApp</name>
+    </assembly>
+    <members>
+        <member name="T:WpfApp.App">
+            <summary>
+            Interaction logic for App.xaml
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:WpfApp.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:WpfApp.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:WpfApp.Command">
+            <summary>
+            Implementation of ICommand interface.
+            </summary>
+        </member>
+        <member name="M:WpfApp.Command.#ctor(System.Action{System.Object},System.Func{System.Object,System.Boolean})">
+            <summary>
+            Constructor of command objects
+            </summary>
+            <param name="Execute">Action which should be executed</param>
+            <param name="CanExecute">Condition under which command can be executed</param>
+        </member>
+        <member name="M:WpfApp.Command.Execute(System.Object)">
+            <summary>
+            Action which should be executed
+            </summary>
+            <param name="parameter"></param>
+        </member>
+        <member name="M:WpfApp.Command.CanExecute(System.Object)">
+            <summary>
+            Condition under which command can be executed
+            </summary>
+            <param name="parameter"></param>
+            <returns></returns>
+        </member>
+        <member name="T:WpfApp.Coordinates">
+            <summary>
+            Contains a property which keeps coordinates and methods for work with coordinates.
+            </summary>
+        </member>
+        <member name="P:WpfApp.Coordinates.CoordsData">
+            <summary>
+            Coordinates as massive of strings
+            </summary>
+        </member>
+        <member name="M:WpfApp.Coordinates.FormatData(System.String[])">
+            <summary>
+            Formats coordinates to make it easier to read.
+            </summary>
+            <param name="rawData">Array of coordinates in required format.</param>
+            <returns>Array of formatted coordinates.</returns>
+        </member>
+        <member name="M:WpfApp.Coordinates.WriteToFile(System.String[],System.String)">
+            <summary>
+            Writes data to file
+            </summary>
+            <param name="strings">Array of coordinates.</param>
+            <param name="pathOfOutputFile">Path to a file where data should be stored.</param>
+        </member>
+        <member name="M:WpfApp.Coordinates.GetStringsFromFile(System.String)">
+            <summary>
+            Read coordinates from file as an array of strings.
+            </summary>
+            <param name="pathOfFile">Path to a file from which data should be read.</param>
+            <returns>Array of coordinates.</returns>
+        </member>
+        <member name="T:WpfApp.MainWindow">
+            <summary>
+            Interaction logic for MainWindow.xaml
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="M:WpfApp.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:WpfApp.MainWindowViewModel">
+            <summary>
+            ViewModel of main window.
+            </summary>
+        </member>
+        <member name="P:WpfApp.MainWindowViewModel.InputFilePath">
+            <summary>
+            Path to a file from which data should be read.
+            </summary>
+        </member>
+        <member name="P:WpfApp.MainWindowViewModel.OutputFilePath">
+            <summary>
+            Path to a file where data should be stored.
+            </summary>
+        </member>
+        <member name="P:WpfApp.MainWindowViewModel.UserInput">
+            <summary>
+            Data that user entered from the window
+            </summary>
+        </member>
+        <member name="P:WpfApp.MainWindowViewModel.ResultDemo">
+            <summary>
+            Data in format for demonstraton to user in window.
+            </summary>
+        </member>
+        <member name="M:WpfApp.MainWindowViewModel.#ctor">
+            <summary>
+            Constructor of ViewModel.
+            </summary>
+        </member>
+        <member name="P:WpfApp.MainWindowViewModel.HandleDataWithFilesCommand">
+            <summary>
+            Command for handling data with reading and writing it to a files.
+            </summary>
+        </member>
+        <member name="M:WpfApp.MainWindowViewModel.OnHandleDataWithFilesCommandExecuted(System.Object)">
+            <summary>
+            Action of HandleDataWithFilesCommand
+            </summary>
+            <param name="parameter"></param>
+        </member>
+        <member name="M:WpfApp.MainWindowViewModel.CanHandleDataWithFilesCommandExecute(System.Object)">
+            <summary>
+            Condition under which HandleDataWithFilesCommand can be executed.
+            </summary>
+            <param name="parameter"></param>
+            <returns></returns>
+        </member>
+        <member name="P:WpfApp.MainWindowViewModel.HandleDataFromUserInputCommand">
+            <summary>
+             Command for handling data located in IserInput property and writing it to a file
+            </summary>
+        </member>
+        <member name="M:WpfApp.MainWindowViewModel.OnHandleDataFromUserInputCommandExecuted(System.Object)">
+            <summary>
+            Action of HandleDataFromUserInputCommand.
+            </summary>
+            <param name="parameter"></param>
+        </member>
+        <member name="M:WpfApp.MainWindowViewModel.CanHandleDataFromUserInputCommandExecute(System.Object)">
+            <summary>
+            Condition under which HandleDataFromUserInputCommand can be executed.
+            </summary>
+            <param name="parameter"></param>
+            <returns></returns>
+        </member>
+        <member name="E:WpfApp.MainWindowViewModel.PropertyChanged">
+            <summary>
+            Event to notify View when some property changed.
+            </summary>
+        </member>
+        <member name="M:WpfApp.MainWindowViewModel.OnPropertyChanged(System.String)">
+            <summary>
+            Must be invoked in setters of every property bound to View to notify it about changes.
+            </summary>
+            <param name="prop"></param>
+        </member>
+        <member name="T:XamlGeneratedNamespace.GeneratedInternalTypeHelper">
+            <summary>
+            GeneratedInternalTypeHelper
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.CreateInstance(System.Type,System.Globalization.CultureInfo)">
+            <summary>
+            CreateInstance
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.GetPropertyValue(System.Reflection.PropertyInfo,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            GetPropertyValue
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.SetPropertyValue(System.Reflection.PropertyInfo,System.Object,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            SetPropertyValue
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.CreateDelegate(System.Type,System.Object,System.String)">
+            <summary>
+            CreateDelegate
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.AddEventHandler(System.Reflection.EventInfo,System.Object,System.Delegate)">
+            <summary>
+            AddEventHandler
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="2f5ac3f9-ec79-425f-a2b3-c4383be7d06a" Title="WpfApp" Url="html/4f5ab61f-7a5c-14d6-d966-50c73d65f549.htm">
+    <HelpTOCNode Id="12e7f081-6429-4922-86e0-24453110d035" Title="App Class" Url="html/f67ce99c-f5b1-c552-e7f7-b7a17a21f50c.htm">
+      <HelpTOCNode Title="App Constructor " Url="html/fdbfaddc-e3b5-81f7-86e6-4fedaed67b47.htm" />
+      <HelpTOCNode Title="App Properties" Url="html/8c84fc44-6545-201a-cd45-ae201cf8c4d0.htm" />
+      <HelpTOCNode Id="a3cd9758-6e7e-4d63-82d7-31962a55c32b" Title="App Methods" Url="html/bb9ab209-e48e-98d2-93d0-6af8d480540c.htm">
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/3b8d46ab-58b4-99b3-475b-171664a74db6.htm" />
+        <HelpTOCNode Title="Main Method " Url="html/24a63c7c-3677-67a7-600e-ad7dfc1d0066.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="App Events" Url="html/38324cba-c357-e831-bbdc-30b7a6c94e6a.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="9a0f6cff-95d7-4a9f-873f-c3d0d48a8559" Title="Command Class" Url="html/dfb13450-599c-708d-727b-7ba97b22214c.htm">
+      <HelpTOCNode Title="Command Constructor " Url="html/9f3eb3e7-a91c-07ea-784d-27dba5582a16.htm" />
+      <HelpTOCNode Id="796a3bc5-0e27-48e2-a487-65ae4885331a" Title="Command Methods" Url="html/71347410-7975-bb46-3fbf-2de7e446aca7.htm">
+        <HelpTOCNode Title="CanExecute Method " Url="html/96091d2c-1643-cbf7-8c1f-4b142c01d3e3.htm" />
+        <HelpTOCNode Title="Execute Method " Url="html/ba38eeb6-fafb-1db1-7c16-eb37bf0b5b44.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="b1329b2e-bde8-4843-ba92-a1446322db64" Title="Command Events" Url="html/4c865bf9-cec3-c261-1467-643d5af05da1.htm">
+        <HelpTOCNode Title="CanExecuteChanged Event" Url="html/a9662221-db28-6422-107a-76fd65711028.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9fd0f45d-5287-495a-85c6-ceb690890f53" Title="Coordinates Class" Url="html/0bdf7a6d-3315-e3cd-8505-517c188818b5.htm">
+      <HelpTOCNode Title="Coordinates Constructor " Url="html/06cdb4a7-d470-0d50-3864-bd4f8bfb855b.htm" />
+      <HelpTOCNode Id="022a476d-5282-4802-85a9-b85bb1044954" Title="Coordinates Properties" Url="html/33314c9c-9594-27ac-89f2-8f32f53634c6.htm">
+        <HelpTOCNode Title="CoordsData Property " Url="html/cea69981-d686-cce6-d376-1a972790cc43.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f1c4d08a-7b83-42a1-870c-cdbe41e63d08" Title="Coordinates Methods" Url="html/d168c5ee-478e-d0df-ee67-624b22c88c8e.htm">
+        <HelpTOCNode Title="FormatData Method " Url="html/21cb14a2-8393-c35a-71ba-1df60c944ec9.htm" />
+        <HelpTOCNode Title="GetStringsFromFile Method " Url="html/20016d51-8d4a-fbc7-b09b-b16c362ccc53.htm" />
+        <HelpTOCNode Title="WriteToFile Method " Url="html/79777446-e7e5-a4d6-50e7-10973de762dc.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="75bc84d4-aa33-4893-8a5f-94f537654c1c" Title="MainWindow Class" Url="html/69c61fc6-f245-8bf0-dd5a-6efac40729fb.htm">
+      <HelpTOCNode Title="MainWindow Constructor " Url="html/e1dd9af6-cde2-4221-a018-cf6bb76a3ad9.htm" />
+      <HelpTOCNode Title="MainWindow Properties" Url="html/a996f438-4150-afcb-24d5-8cc21d70e505.htm" />
+      <HelpTOCNode Id="c5eecf19-4798-4d82-b1ca-25f20593a839" Title="MainWindow Methods" Url="html/60414e7f-cd9c-7797-9b6e-c9ec744d7a56.htm">
+        <HelpTOCNode Title="InitializeComponent Method " Url="html/cf592756-7477-1b84-b4d6-d61c6cb97b9a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="MainWindow Events" Url="html/0c1d0245-7dd1-c1ec-c644-92b3e13bed8a.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="3ef96f1f-3879-4857-a7c0-b5fd41dc24f7" Title="MainWindowViewModel Class" Url="html/2d9030fc-6067-3f37-30cc-bd9168f51c10.htm">
+      <HelpTOCNode Title="MainWindowViewModel Constructor " Url="html/1f4fadc5-8e71-dd29-ccb5-ffe9122f1ea0.htm" />
+      <HelpTOCNode Id="cc75284b-113f-4bdf-b874-785d79c0dacf" Title="MainWindowViewModel Properties" Url="html/c8ab32aa-9d0b-89aa-4066-0e2643fde476.htm">
+        <HelpTOCNode Title="HandleDataFromUserInputCommand Property " Url="html/df481978-b396-a7bd-08b9-e20870ff3f86.htm" />
+        <HelpTOCNode Title="HandleDataWithFilesCommand Property " Url="html/0d435b17-6323-391a-3655-4a1a11bbc71f.htm" />
+        <HelpTOCNode Title="InputFilePath Property " Url="html/54c19be0-bad3-1acf-0cb8-3c4f51eb0901.htm" />
+        <HelpTOCNode Title="OutputFilePath Property " Url="html/8e9c3f00-3876-1145-3eda-f102b1e2168f.htm" />
+        <HelpTOCNode Title="ResultDemo Property " Url="html/5deda678-db14-140b-5c74-adf0c2b51c02.htm" />
+        <HelpTOCNode Title="UserInput Property " Url="html/3bb4713f-22f2-1ad0-0ce9-733613624ca6.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="27e9101c-3dc6-49a0-8fd0-164d40bb4290" Title="MainWindowViewModel Methods" Url="html/3b393edc-9736-8e26-4375-55ee177ada9a.htm">
+        <HelpTOCNode Title="CanHandleDataFromUserInputCommandExecute Method " Url="html/e368f28e-cff7-fedf-924b-a040adda4d51.htm" />
+        <HelpTOCNode Title="CanHandleDataWithFilesCommandExecute Method " Url="html/d92e2d4c-3aba-7b2f-c176-e5ba0221f3c8.htm" />
+        <HelpTOCNode Title="OnHandleDataFromUserInputCommandExecuted Method " Url="html/77c545c9-e149-058a-f648-3c5f94dfabe7.htm" />
+        <HelpTOCNode Title="OnHandleDataWithFilesCommandExecuted Method " Url="html/50e605a4-3474-41f6-041f-ab34961ca13d.htm" />
+        <HelpTOCNode Title="OnPropertyChanged Method " Url="html/c9b06f11-0fff-54eb-5495-788ee19e2e96.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="97e0b2ee-dd9f-42f4-ba69-42f8f1f60baf" Title="MainWindowViewModel Events" Url="html/50c17418-2e1f-0b52-3c60-8988b7bc909c.htm">
+        <HelpTOCNode Title="PropertyChanged Event" Url="html/77050f99-4467-c08a-163b-53987e3054dd.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

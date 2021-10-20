@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="App class">
+    <HelpKINode Title="App Class" Url="html/f67ce99c-f5b1-c552-e7f7-b7a17a21f50c.htm" />
+    <HelpKINode Title="constructor" Url="html/fdbfaddc-e3b5-81f7-86e6-4fedaed67b47.htm" />
+    <HelpKINode Title="events" Url="html/38324cba-c357-e831-bbdc-30b7a6c94e6a.htm" />
+    <HelpKINode Title="methods" Url="html/bb9ab209-e48e-98d2-93d0-6af8d480540c.htm" />
+    <HelpKINode Title="properties" Url="html/8c84fc44-6545-201a-cd45-ae201cf8c4d0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="App.App constructor" Url="html/fdbfaddc-e3b5-81f7-86e6-4fedaed67b47.htm" />
+  <HelpKINode Title="App.InitializeComponent method" Url="html/3b8d46ab-58b4-99b3-475b-171664a74db6.htm" />
+  <HelpKINode Title="App.Main method" Url="html/24a63c7c-3677-67a7-600e-ad7dfc1d0066.htm" />
+  <HelpKINode Title="CanExecute method" Url="html/96091d2c-1643-cbf7-8c1f-4b142c01d3e3.htm" />
+  <HelpKINode Title="CanExecuteChanged event" Url="html/a9662221-db28-6422-107a-76fd65711028.htm" />
+  <HelpKINode Title="CanHandleDataFromUserInputCommandExecute method" Url="html/e368f28e-cff7-fedf-924b-a040adda4d51.htm" />
+  <HelpKINode Title="CanHandleDataWithFilesCommandExecute method" Url="html/d92e2d4c-3aba-7b2f-c176-e5ba0221f3c8.htm" />
+  <HelpKINode Title="Command class">
+    <HelpKINode Title="Command Class" Url="html/dfb13450-599c-708d-727b-7ba97b22214c.htm" />
+    <HelpKINode Title="constructor" Url="html/9f3eb3e7-a91c-07ea-784d-27dba5582a16.htm" />
+    <HelpKINode Title="events" Url="html/4c865bf9-cec3-c261-1467-643d5af05da1.htm" />
+    <HelpKINode Title="methods" Url="html/71347410-7975-bb46-3fbf-2de7e446aca7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Command.CanExecute method" Url="html/96091d2c-1643-cbf7-8c1f-4b142c01d3e3.htm" />
+  <HelpKINode Title="Command.CanExecuteChanged event" Url="html/a9662221-db28-6422-107a-76fd65711028.htm" />
+  <HelpKINode Title="Command.Command constructor" Url="html/9f3eb3e7-a91c-07ea-784d-27dba5582a16.htm" />
+  <HelpKINode Title="Command.Execute method" Url="html/ba38eeb6-fafb-1db1-7c16-eb37bf0b5b44.htm" />
+  <HelpKINode Title="Coordinates class">
+    <HelpKINode Title="Coordinates Class" Url="html/0bdf7a6d-3315-e3cd-8505-517c188818b5.htm" />
+    <HelpKINode Title="constructor" Url="html/06cdb4a7-d470-0d50-3864-bd4f8bfb855b.htm" />
+    <HelpKINode Title="methods" Url="html/d168c5ee-478e-d0df-ee67-624b22c88c8e.htm" />
+    <HelpKINode Title="properties" Url="html/33314c9c-9594-27ac-89f2-8f32f53634c6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Coordinates.Coordinates constructor" Url="html/06cdb4a7-d470-0d50-3864-bd4f8bfb855b.htm" />
+  <HelpKINode Title="Coordinates.CoordsData property" Url="html/cea69981-d686-cce6-d376-1a972790cc43.htm" />
+  <HelpKINode Title="Coordinates.FormatData method" Url="html/21cb14a2-8393-c35a-71ba-1df60c944ec9.htm" />
+  <HelpKINode Title="Coordinates.GetStringsFromFile method" Url="html/20016d51-8d4a-fbc7-b09b-b16c362ccc53.htm" />
+  <HelpKINode Title="Coordinates.WriteToFile method" Url="html/79777446-e7e5-a4d6-50e7-10973de762dc.htm" />
+  <HelpKINode Title="CoordsData property" Url="html/cea69981-d686-cce6-d376-1a972790cc43.htm" />
+  <HelpKINode Title="Execute method" Url="html/ba38eeb6-fafb-1db1-7c16-eb37bf0b5b44.htm" />
+  <HelpKINode Title="FormatData method" Url="html/21cb14a2-8393-c35a-71ba-1df60c944ec9.htm" />
+  <HelpKINode Title="GetStringsFromFile method" Url="html/20016d51-8d4a-fbc7-b09b-b16c362ccc53.htm" />
+  <HelpKINode Title="HandleDataFromUserInputCommand property" Url="html/df481978-b396-a7bd-08b9-e20870ff3f86.htm" />
+  <HelpKINode Title="HandleDataWithFilesCommand property" Url="html/0d435b17-6323-391a-3655-4a1a11bbc71f.htm" />
+  <HelpKINode Title="InitializeComponent method">
+    <HelpKINode Title="App.InitializeComponent Method " Url="html/3b8d46ab-58b4-99b3-475b-171664a74db6.htm" />
+    <HelpKINode Title="MainWindow.InitializeComponent Method " Url="html/cf592756-7477-1b84-b4d6-d61c6cb97b9a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InputFilePath property" Url="html/54c19be0-bad3-1acf-0cb8-3c4f51eb0901.htm" />
+  <HelpKINode Title="Main method" Url="html/24a63c7c-3677-67a7-600e-ad7dfc1d0066.htm" />
+  <HelpKINode Title="MainWindow class">
+    <HelpKINode Title="MainWindow Class" Url="html/69c61fc6-f245-8bf0-dd5a-6efac40729fb.htm" />
+    <HelpKINode Title="constructor" Url="html/e1dd9af6-cde2-4221-a018-cf6bb76a3ad9.htm" />
+    <HelpKINode Title="events" Url="html/0c1d0245-7dd1-c1ec-c644-92b3e13bed8a.htm" />
+    <HelpKINode Title="methods" Url="html/60414e7f-cd9c-7797-9b6e-c9ec744d7a56.htm" />
+    <HelpKINode Title="properties" Url="html/a996f438-4150-afcb-24d5-8cc21d70e505.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MainWindow.InitializeComponent method" Url="html/cf592756-7477-1b84-b4d6-d61c6cb97b9a.htm" />
+  <HelpKINode Title="MainWindow.MainWindow constructor" Url="html/e1dd9af6-cde2-4221-a018-cf6bb76a3ad9.htm" />
+  <HelpKINode Title="MainWindowViewModel class">
+    <HelpKINode Title="MainWindowViewModel Class" Url="html/2d9030fc-6067-3f37-30cc-bd9168f51c10.htm" />
+    <HelpKINode Title="constructor" Url="html/1f4fadc5-8e71-dd29-ccb5-ffe9122f1ea0.htm" />
+    <HelpKINode Title="events" Url="html/50c17418-2e1f-0b52-3c60-8988b7bc909c.htm" />
+    <HelpKINode Title="methods" Url="html/3b393edc-9736-8e26-4375-55ee177ada9a.htm" />
+    <HelpKINode Title="properties" Url="html/c8ab32aa-9d0b-89aa-4066-0e2643fde476.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MainWindowViewModel.CanHandleDataFromUserInputCommandExecute method" Url="html/e368f28e-cff7-fedf-924b-a040adda4d51.htm" />
+  <HelpKINode Title="MainWindowViewModel.CanHandleDataWithFilesCommandExecute method" Url="html/d92e2d4c-3aba-7b2f-c176-e5ba0221f3c8.htm" />
+  <HelpKINode Title="MainWindowViewModel.HandleDataFromUserInputCommand property" Url="html/df481978-b396-a7bd-08b9-e20870ff3f86.htm" />
+  <HelpKINode Title="MainWindowViewModel.HandleDataWithFilesCommand property" Url="html/0d435b17-6323-391a-3655-4a1a11bbc71f.htm" />
+  <HelpKINode Title="MainWindowViewModel.InputFilePath property" Url="html/54c19be0-bad3-1acf-0cb8-3c4f51eb0901.htm" />
+  <HelpKINode Title="MainWindowViewModel.MainWindowViewModel constructor" Url="html/1f4fadc5-8e71-dd29-ccb5-ffe9122f1ea0.htm" />
+  <HelpKINode Title="MainWindowViewModel.OnHandleDataFromUserInputCommandExecuted method" Url="html/77c545c9-e149-058a-f648-3c5f94dfabe7.htm" />
+  <HelpKINode Title="MainWindowViewModel.OnHandleDataWithFilesCommandExecuted method" Url="html/50e605a4-3474-41f6-041f-ab34961ca13d.htm" />
+  <HelpKINode Title="MainWindowViewModel.OnPropertyChanged method" Url="html/c9b06f11-0fff-54eb-5495-788ee19e2e96.htm" />
+  <HelpKINode Title="MainWindowViewModel.OutputFilePath property" Url="html/8e9c3f00-3876-1145-3eda-f102b1e2168f.htm" />
+  <HelpKINode Title="MainWindowViewModel.PropertyChanged event" Url="html/77050f99-4467-c08a-163b-53987e3054dd.htm" />
+  <HelpKINode Title="MainWindowViewModel.ResultDemo property" Url="html/5deda678-db14-140b-5c74-adf0c2b51c02.htm" />
+  <HelpKINode Title="MainWindowViewModel.UserInput property" Url="html/3bb4713f-22f2-1ad0-0ce9-733613624ca6.htm" />
+  <HelpKINode Title="OnHandleDataFromUserInputCommandExecuted method" Url="html/77c545c9-e149-058a-f648-3c5f94dfabe7.htm" />
+  <HelpKINode Title="OnHandleDataWithFilesCommandExecuted method" Url="html/50e605a4-3474-41f6-041f-ab34961ca13d.htm" />
+  <HelpKINode Title="OnPropertyChanged method" Url="html/c9b06f11-0fff-54eb-5495-788ee19e2e96.htm" />
+  <HelpKINode Title="OutputFilePath property" Url="html/8e9c3f00-3876-1145-3eda-f102b1e2168f.htm" />
+  <HelpKINode Title="PropertyChanged event" Url="html/77050f99-4467-c08a-163b-53987e3054dd.htm" />
+  <HelpKINode Title="ResultDemo property" Url="html/5deda678-db14-140b-5c74-adf0c2b51c02.htm" />
+  <HelpKINode Title="UserInput property" Url="html/3bb4713f-22f2-1ad0-0ce9-733613624ca6.htm" />
+  <HelpKINode Title="WpfApp namespace" Url="html/4f5ab61f-7a5c-14d6-d966-50c73d65f549.htm" />
+  <HelpKINode Title="WpfApp.App class" Url="html/f67ce99c-f5b1-c552-e7f7-b7a17a21f50c.htm" />
+  <HelpKINode Title="WpfApp.Command class" Url="html/dfb13450-599c-708d-727b-7ba97b22214c.htm" />
+  <HelpKINode Title="WpfApp.Coordinates class" Url="html/0bdf7a6d-3315-e3cd-8505-517c188818b5.htm" />
+  <HelpKINode Title="WpfApp.MainWindow class" Url="html/69c61fc6-f245-8bf0-dd5a-6efac40729fb.htm" />
+  <HelpKINode Title="WpfApp.MainWindowViewModel class" Url="html/2d9030fc-6067-3f37-30cc-bd9168f51c10.htm" />
+  <HelpKINode Title="WriteToFile method" Url="html/79777446-e7e5-a4d6-50e7-10973de762dc.htm" />
+</HelpKI>

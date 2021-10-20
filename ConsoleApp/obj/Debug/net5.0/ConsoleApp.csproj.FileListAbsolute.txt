@@ -1,0 +1,16 @@
+D:\EPAM\DashkevichLab1\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+D:\EPAM\DashkevichLab1\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+D:\EPAM\DashkevichLab1\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+D:\EPAM\DashkevichLab1\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+D:\EPAM\DashkevichLab1\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+D:\EPAM\DashkevichLab1\ConsoleApp\bin\Debug\net5.0\ref\ConsoleApp.dll
+D:\EPAM\DashkevichLab1\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+D:\EPAM\DashkevichLab1\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
+D:\EPAM\DashkevichLab1\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\EPAM\DashkevichLab1\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\EPAM\DashkevichLab1\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+D:\EPAM\DashkevichLab1\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\EPAM\DashkevichLab1\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+D:\EPAM\DashkevichLab1\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
+D:\EPAM\DashkevichLab1\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+D:\EPAM\DashkevichLab1\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
